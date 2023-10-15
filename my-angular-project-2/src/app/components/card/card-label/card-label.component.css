@@ -1,6 +1,4 @@
 .label_container{
-
-
 display: flex;
 flex-direction: row;
 
@@ -10,10 +8,12 @@ margin-right: 100px;
 }
 
 .titulo{
+  min-width: 300px;
   margin-left: 30px;
   margin-right: 30px;
 }
 
 .titulo > p{
+  color:rgba(0, 0, 0, 0.911);
   padding: 1%;
 }

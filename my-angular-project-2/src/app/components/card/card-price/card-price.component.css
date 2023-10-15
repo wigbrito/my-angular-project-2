@@ -14,25 +14,29 @@
 
 .desconto_valor{
   display: flex;
-  flex-direction: col;
+  flex-direction: column;
 }
 
 .desconto{
+  min-width: 300px;
   margin-left: 30px;
   margin-right: 30px;
 }
 
 
 .valor{
-
+  min-width: 300px;
   margin-left: 30px;
   margin-right: 30px;
 }
 
 .desconto > p{
   padding: 1%;
+  font-size: 14px;
+  color:rgba(0, 0, 0, 0.911);
 }
 
 .valor > p {
   padding: 1%;
+  color:rgba(0, 0, 0, 0.815);
 }
