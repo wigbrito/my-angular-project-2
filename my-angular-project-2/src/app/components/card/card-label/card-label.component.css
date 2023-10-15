@@ -9,6 +9,7 @@ margin-right: 100px;
 
 .titulo{
   min-width: 300px;
+  max-width: 300px;
   margin-left: 30px;
   margin-right: 30px;
 }

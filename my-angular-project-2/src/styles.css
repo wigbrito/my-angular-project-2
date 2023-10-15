@@ -4,3 +4,6 @@ padding: 0;
 font-family: "SST",helvetica,arial,sans-serif;
 text-decoration: solid;
 }
+body{
+  background-color:rgba(128, 128, 128, 0.103);
+}
